@@ -3,4 +3,4 @@
 creating a README.md file as part of creating this repo, for learnin'
 
 also editing the file after creation
-another edit to see the commit message change
+replace a previous edit to see how it diplays
