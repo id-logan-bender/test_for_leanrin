@@ -6,4 +6,4 @@ replace a previous edit to see how it displays
 
 ## local edits
 
-these are lcoal edits made form VS Codls
+these are local edits made from VS Codes
