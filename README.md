@@ -6,9 +6,9 @@ replace a previous edit to see how it displays
 
 ## local edits
 
-these are lcoal edits made form VS Code
+these are local edits made from VS Code
 A good tutorial but now outdated, as the git Hub UI and options have changed a bit in `22 ; you have to figure some stuff out.
 
 ### EDITS MADE IN A BRANCH
 
-these edits were made remotly in the /feature-reame-instruction' branch
+these edits were made remotly in the 'feature-reame-instruction' branch
